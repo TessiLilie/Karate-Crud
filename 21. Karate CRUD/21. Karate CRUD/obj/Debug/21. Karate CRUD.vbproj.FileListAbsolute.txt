@@ -1,0 +1,17 @@
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\bin\Debug\karate.mdf
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\bin\Debug\karate_log.ldf
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\bin\Debug\_21.Karate_CRUD.exe.config
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\bin\Debug\_21.Karate_CRUD.exe
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\bin\Debug\_21.Karate_CRUD.pdb
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\bin\Debug\_21.Karate_CRUD.xml
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\obj\Debug\21. Karate CRUD.vbprojAssemblyReference.cache
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\obj\Debug\_21.Karate_CRUD.AllMembers.resources
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\obj\Debug\_21.Karate_CRUD.Resources.resources
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\obj\Debug\21. Karate CRUD.vbproj.GenerateResource.cache
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\obj\Debug\21. Karate CRUD.vbproj.CoreCompileInputs.cache
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\obj\Debug\_21.Karate_CRUD.exe
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\obj\Debug\_21.Karate_CRUD.xml
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\obj\Debug\_21.Karate_CRUD.pdb
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\obj\Debug\_21.Karate_CRUD.frmAddMember.resources
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\obj\Debug\_21.Karate_CRUD.frmFilterByDate.resources
+C:\Users\Promotional Office\Documents\Visual Studio 2019\Udemy Pavol Intermediate\21. Karate CRUD\21. Karate CRUD\obj\Debug\_21.Karate_CRUD.frmFindByName.resources
